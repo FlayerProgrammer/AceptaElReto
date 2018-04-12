@@ -1,2 +1,2 @@
-# AceptaElReto172
-Problema acepta el reto numero 172
+# AceptaElReto
+Problema acepta el reto numero
